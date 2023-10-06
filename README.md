@@ -1,2 +1,1 @@
-# DS_Portfolio
-Aniss Bouchama - Portfolio
+# Aniss Bouchama - Portfolio
